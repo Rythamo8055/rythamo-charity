@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990312198542",
+    "project_id": "rythamo-charity-v1",
+    "storage_bucket": "rythamo-charity-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990312198542:android:1c5ea2865d6c713ad474df",
+        "android_client_info": {
+          "package_name": "com.example.rythamo_charity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "***REMOVED***",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rythamo_charity",
+            "certificate_hash": "9a70cbf4904a740b8cae33e825150efc8c8b85cd"
+          }
+        },
+        {
+          "client_id": "***REMOVED***",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "***REMOVED***"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "***REMOVED***",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
