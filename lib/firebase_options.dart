@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '***REMOVED***',
+    apiKey: 'YOUR_FIREBASE_API_KEY',
     appId: '1:990312198542:android:1c5ea2865d6c713ad474df',
     messagingSenderId: '990312198542',
     projectId: 'rythamo-charity-v1',

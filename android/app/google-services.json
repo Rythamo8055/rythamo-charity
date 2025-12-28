@@ -14,7 +14,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "***REMOVED***",
+          "client_id": "990312198542-k6hq2c6otq3u275e7v2ejfh5nji7hqs9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.rythamo_charity",
@@ -22,20 +22,20 @@
           }
         },
         {
-          "client_id": "***REMOVED***",
+          "client_id": "990312198542-3mqqcqu98f7h0eefmpi3g52dl1vcq4lk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "***REMOVED***"
+          "current_key": "YOUR_FIREBASE_API_KEY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "***REMOVED***",
+              "client_id": "990312198542-3mqqcqu98f7h0eefmpi3g52dl1vcq4lk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
